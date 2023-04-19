@@ -35,8 +35,9 @@ def circulate():
 ```
 
 
-## Output:
-![Screenshot (22)](https://user-images.githubusercontent.com/123469171/229993275-bef49e13-c2bb-47be-ac2f-1814981a0516.png)
+## OUTPUT
+![Screenshot (28)](https://user-images.githubusercontent.com/123469171/232969186-d0110642-a82a-41c8-9163-c1ccf67d45cd.png)
+
 
 
 ## Result:
